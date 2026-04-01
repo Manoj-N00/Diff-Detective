@@ -2,8 +2,8 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Code Review — AI-Powered PR Review",
-  description: "Code review that organizes diffs, detects moved code, and flags potential bugs.",
+  title: "Diff Detective — AI-Powered PR Review",
+  description: "Diff Detective reviews pull requests, organizes diffs, and flags potential bugs.",
   icons: {
     icon: "/review-your-prs-logo.png",
     shortcut: "/review-your-prs-logo.png",
