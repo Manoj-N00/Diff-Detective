@@ -75,12 +75,12 @@ function LandingPage({ onSubmit }: { onSubmit: (url: string) => void }) {
       >
         <img
           src="/review-your-prs-logo.png"
-          alt="Review Your PRs logo"
+          alt="Diff Detective logo"
           width={16}
           height={16}
           style={{ borderRadius: 4, objectFit: "cover" }}
         />
-        Manoj-N00/Code-Reviewer-Bot
+        Diff Detective
       </a>
 
       {/* ── Hero ── */}
